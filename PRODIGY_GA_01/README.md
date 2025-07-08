@@ -1,7 +1,7 @@
 # 🧠 Text Generation with GPT-2  
 **Prodigy Internship – Task 1 at Generative_AI**
 
-This project demonstrates how to build a simple text generation application using OpenAI's GPT-2 language model. It includes an interactive web interface powered by Gradio, allowing users to input a prompt and receive AI-generated text responses.
+This project demonstrates how to build a simple *text generation application using OpenAI's GPT-2 language model*. It includes an interactive web interface powered by Gradio, allowing users to input a prompt and receive AI-generated text responses.
 
 ---
 
