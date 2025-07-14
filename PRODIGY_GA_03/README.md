@@ -215,9 +215,8 @@ But for simple shuffling of style-preserved text, **Markov Chains are great**!
 
 ---
 
-✅ **Task Completed as part of GenAI Internship**
-📅 Internship Platform: Prodigy Infotech
-👩‍💻 Task Number: 3
+✅ **Task Completed as part of GenAI Internship**<br>
+📅 Internship Platform: Prodigy Infotech<br>
+👩‍💻 Task Number: 3<br>
 📂 Title: Text Generation with Markov Chains
-
-```
+---
