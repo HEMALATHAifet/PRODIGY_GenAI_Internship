@@ -140,18 +140,6 @@ Try using simple prompts like:
 * `A graduation cap on a desk`
 
 These work best in Colab with a 512x512 image output.
-
----
-
-## 📷 Sample Output
-
-| Prompt           | Output Image           |
-| ---------------- | ---------------------- |
-| `Cat on laptop`  | ![cat](sample-cat.jpg) |
-| `Graduation cap` | ![cap](sample-cap.jpg) |
-
-*(Replace with actual output images if submitting screenshots)*
-
 ---
 
 ## 🧾 Code Walkthrough – Line-by-Line Explanation
