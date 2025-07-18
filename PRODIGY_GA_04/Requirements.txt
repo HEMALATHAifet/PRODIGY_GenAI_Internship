@@ -1,0 +1,7 @@
+!pip install -q tensorflow tensorflow-datasets gradio git+https://github.com/tensorflow/examples.git
+
+
+from google.colab import files
+
+uploaded = files.upload()  # Upload edge2face.zip
+!unzip edge2face.zip -d /content/edge2face
