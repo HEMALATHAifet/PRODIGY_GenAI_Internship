@@ -18,10 +18,10 @@ This repository contains all four tasks completed during the **Prodigy Infotech 
 
 | Task | Title | Domain | Link |
 |------|-------|--------|------|
-| 01 | Text Generation using GPT-2 | Natural Language Processing | [Task 1](#-task-1--text-generation-with-gpt-2) |
-| 02 | AI Image Generation using Stable Diffusion | Computer Vision | [Task 2](#-task-2--ai-image-generator-using-stable-diffusion) |
-| 03 | Text Generation using Markov Chains | NLP (Statistical) | [Task 3](#-task-3--text-generation-using-markov-chains) |
-| 04 | Image-to-Image Translation using cGAN (Pix2Pix) | Computer Vision | [Task 4](#-task-4--image-to-image-translation-with-cgan) |
+| 01 | Text Generation using GPT-2 | Natural Language Processing | [Task 1](https://github.com/HEMALATHAifet/PRODIGY_GenAI_Internship/tree/main/PRODIGY_GA_01) |
+| 02 | AI Image Generation using Stable Diffusion | Computer Vision | [Task 2](https://github.com/HEMALATHAifet/PRODIGY_GenAI_Internship/tree/main/PRODIGY_GA_02) |
+| 03 | Text Generation using Markov Chains | NLP (Statistical) | [Task 3](https://github.com/HEMALATHAifet/PRODIGY_GenAI_Internship/tree/main/PRODIGY_GA_03) |
+| 04 | Image-to-Image Translation using cGAN (Pix2Pix) | Computer Vision | [Task 4](https://github.com/HEMALATHAifet/PRODIGY_GenAI_Internship/tree/main/PRODIGY_GA_04) |
 
 ---
 
